@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "kahoot.js-api": "^2.4.0"
+  }
+}
